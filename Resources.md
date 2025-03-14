@@ -3,3 +3,4 @@
 + https://www.modella.ai/intro.html -- Pathchat 2 -- multimodal generative AI that reason with images + text
 + https://www.d-id.com/ -- Create AI videos and engage audience. It can take LLM output and deliver as an avatar.
 + https://leehanchung.github.io/ - Han Lee Director at Moody's
++ https://nvidia.github.io/bionemo-framework/  -- Nvidia tools
