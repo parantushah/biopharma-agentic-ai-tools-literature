@@ -4,3 +4,4 @@
 + https://www.d-id.com/ -- Create AI videos and engage audience. It can take LLM output and deliver as an avatar.
 + https://leehanchung.github.io/ - Han Lee Director at Moody's
 + https://nvidia.github.io/bionemo-framework/  -- Nvidia tools
++ https://github.com/mims-harvard  - Zitnik lab git
